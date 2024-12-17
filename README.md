@@ -34,6 +34,6 @@ To run the project locally, follow these steps:
 ### Installation Steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone git@github.com:mdmehedihashanmolla/Real-Estate-Landing-Page.git
 2. npm install
 3. npm run dev
